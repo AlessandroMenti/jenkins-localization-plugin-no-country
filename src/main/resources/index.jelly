@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Localization plugin to check if resources loaded with no country code work
+</div>
